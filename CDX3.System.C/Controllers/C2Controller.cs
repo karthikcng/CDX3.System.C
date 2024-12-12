@@ -6,7 +6,7 @@ namespace CDX3.System.C.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class A1Controller : ControllerBase
+    public class C2Controller : ControllerBase
     {
         [HttpPost]
         [Route("Feature1")]
